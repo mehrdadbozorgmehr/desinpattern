@@ -1,0 +1,1 @@
+package ir.com.sample.designpattern;
