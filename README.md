@@ -1,2 +1,2 @@
 # desinpattern
-my sample designe-pattern in java language
+my sample design-pattern in java language
