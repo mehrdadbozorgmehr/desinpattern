@@ -1,4 +1,4 @@
-package ir.com.sample.designpattern.smipleFactory;
+package ir.com.sample.designpattern.simple.factory;
 
 /**
  * Created by Mehrdad on 03/04/2022.
